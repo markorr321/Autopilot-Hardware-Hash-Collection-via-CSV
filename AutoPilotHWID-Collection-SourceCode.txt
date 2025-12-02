@@ -1,6 +1,6 @@
-============================================================
-AUTOPILOT HARDWARE HASH COLLECTION - SOURCE CODE
-============================================================
+========================================================================================
+AUTOPILOT HARDWARE HASH COLLECTION - SOURCE CODE - PROVIDED FOR LOCAL BAT FILE CREATION
+========================================================================================
 
 FILE: AutoPilotHWID-Collection.bat
 VERSION: 1.0
@@ -167,3 +167,4 @@ USAGE:
 - On Windows: Double-click the .bat file
 
 ============================================================
+
