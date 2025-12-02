@@ -17,15 +17,6 @@ Production-ready tool for IT professionals to collect Windows AutoPilot hardware
 - ✅ **USB Auto-Backup** - Creates organized folders per device on USB drives
 - ✅ **Internet Required** - Downloads latest collection tools from PowerShell Gallery
 
-## 🎯 Use Case
-
-Perfect for:
-- IT technicians provisioning new devices
-- Managed Service Providers (MSPs) handling bulk deployments
-- Enterprise IT teams migrating to Windows Autopilot
-- Field technicians without network access to Intune admin portal
-- Scenarios requiring offline hardware hash collection
-
 ## 📦 What's Included
 
 - **AutoPilotHWID-Collection.bat** - Main collection script
